@@ -1,0 +1,52 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-image:url(../clouds.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+h1{
+  color:white;
+  text-align:center;
+  margin-top:91px;
+  font-family: 'Staatliches', cursive;
+  font-size:3rem;
+}
+
+h3{
+  text-align:center;
+  margin:0;
+  color:white;
+  font-family: 'Actor', sans-serif;
+}
+
+#city{
+  margin-left: 24%;
+  height:47px;
+  width:20%;
+  font-family: 'Staatliches', cursive;
+  font-size:1.5rem;
+}
+
+#country{
+  margin-left:2%;
+  height:47px;
+  width:20%;
+  font-family: 'Staatliches', cursive;
+  font-size:1.5rem;
+}
+
+button{
+  height: 46px;
+}
+
+p{
+  text-align:center;
+  font-family: 'Staatliches', cursive;
+  font-size:1.5rem;
+}
